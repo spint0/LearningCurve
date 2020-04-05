@@ -1,97 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f75d8ba4-b71c-410e-8d56-c56caa33bd4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/LearningCurve.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/BattleShips/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/BattleShips/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/BattleShips/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/BattleShips/BattleShips.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/BattleShips/src/BattleShips.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/FractionCalculator/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/FractionCalculator/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/FractionCalculator/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/FractionCalculator/FractionCalculator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/FractionCalculator/out/production/FractionCalculator/Fraction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/FractionCalculator/out/production/FractionCalculator/FractionCalculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/FractionCalculator/src/Fraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/FractionCalculator/src/FractionCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/MazeRunner/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/MazeRunner/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/MazeRunner/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/MazeRunner/MazeRunner.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/MazeRunner/out/production/MazeRunner/Maze.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/MazeRunner/out/production/MazeRunner/MazeRunner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/MazeRunner/src/Maze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/MazeRunner/src/MazeRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/OddsEvens/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/OddsEvens/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/OddsEvens/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/OddsEvens/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/OddsEvens/OddsEvens.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/OddsEvens/out/production/OddsEvens/OddsEvens.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/OddsEvens/src/OddsEvens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/Practice/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/Practice/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/Practice/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/Practice/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/Practice/Practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/Practice/out/production/Practice/InputBirthday.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/Practice/out/production/Practice/TookensDouble.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/Practice/out/production/Practice/WellFormed.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/Practice/out/production/Practice/YesNoLoop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/Practice/out/production/Practice/tests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/Practice/src/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/Practice/src/InputBirthday.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/Practice/src/LearnScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/Practice/src/TookensDouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/Practice/src/WellFormed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/Practice/src/YesNoLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/Practice/src/tests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/ProjectCrypto/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/ProjectCrypto/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/ProjectCrypto/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/ProjectCrypto/ProjectCrypto.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/ProjectCrypto/out/production/ProjectCrypto/Crypto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/ProjectCrypto/src/Crypto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/RockPaperScissors/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/RockPaperScissors/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/RockPaperScissors/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/RockPaperScissors/RockPaperScissors.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/RockPaperScissors/out/production/RockPaperScissors/RockPaperScissors.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/RockPaperScissors/src/RockPaperScissors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/TripPlanner/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/TripPlanner/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/TripPlanner/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/TripPlanner/TripPlanner.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/TripPlanner/out/production/TripPlanner/TripPlanner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../EdX/TripPlanner/src/TripPlanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Cats are robots/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Cats are robots/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Cats are robots/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Digits from 0 to 9 in a single line/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Digits from 0 to 9 in a single line/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Digits from 0 to 9 in a single line/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/First, second, third/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/First, second, third/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/First, second, third/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Hello, Java/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Hello, Java/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Hello, Java/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The Hello World program/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The Hello World program/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/The Hello World program/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/We need to learn Java/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/We need to learn Java/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/We need to learn Java/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-    </list>
+    <list default="true" id="f75d8ba4-b71c-410e-8d56-c56caa33bd4e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,50 +12,15 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
-  </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="C:\Users\simao\IdeaProjects\LearningCurve\JetBrains\Simple Chatty Bot\.idea" />
-      </set>
-    </option>
-  </component>
   <component name="ProjectId" id="1YX7qfdVoZ8fOzHOB9oDIwCGNiR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
-  </component>
-  <component name="RunManager">
-    <configuration name="SimpleBot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bot.SimpleBot" />
-      <module name="Simple_Chatty_Bot-task_main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bot.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.SimpleBot" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -160,34 +35,15 @@
     </task>
     <servers />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
   <component name="WindowStateProjectService">
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1583170396160">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583170396160" />
-    <state width="1492" height="203" key="GridCell.Tab.0.bottom" timestamp="1586099055666">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1583170235209">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586099055666" />
-    <state width="1492" height="203" key="GridCell.Tab.0.center" timestamp="1586099055665">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1492" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586099055665" />
-    <state width="1492" height="203" key="GridCell.Tab.0.left" timestamp="1586099055665">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1492" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586099055665" />
-    <state width="1492" height="203" key="GridCell.Tab.0.right" timestamp="1586099055665">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1492" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586099055665" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1586098966156">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586098966156" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583170235209" />
     <state x="209" y="33" key="new project wizard" timestamp="1583170427674">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
